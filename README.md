@@ -50,7 +50,6 @@ This project consists of Spring Boot Rest API and Graphical Representation of da
 | ------------- | -------------                      |
 | SalesId       | Unique Id for all the Sold Cars    |
 | ModelId       | Foreign Key of ModelId in CarModel |
-| BrandId       | Foreign Key of BrandId in Brands   |
 | SaleDate      | Sale date of the carMode           |
 
 4. CarVariation 
